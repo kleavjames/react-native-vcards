@@ -7,7 +7,6 @@
     "moment": "~2.13.0"
   },
   "peerDependencies": {
-    "react-native": "*",
     "react-native-fs": "2.x"
   },
   "devDependencies": {
